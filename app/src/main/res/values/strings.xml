@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+
+    <string name="button_send">Lives!</string>
+    <string name="button_timer">Timed!</string>
+    <string name="Title">Color Tap!</string>
+
+    <string name="send_Back">back</string>
+    <string name="title_activity_game_over">gameOver</string>
+    <string name="restart">Restart</string>
+    <string name="returnMain">Main Menu</string>
+    <string name="gameOver">Game Over!</string>
+</resources>
