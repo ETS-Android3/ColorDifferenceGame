@@ -3,12 +3,5 @@ I made this project while messing around with android studio. I did it for fun a
 <br/><br/>
 
 
-![ScreenShot](/pictures/Home.png)
-
-![ScreenShot](/pictures/game1.png)
-
-![ScreenShot](/pictures/game2.png)
-
-![ScreenShot](/pictures/gameover.png)
-
+![ScreenShot](pictures/Home.png)
 
