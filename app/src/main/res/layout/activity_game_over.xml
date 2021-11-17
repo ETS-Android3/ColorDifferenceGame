@@ -17,15 +17,16 @@
         android:layout_marginEnd="8dp"
         android:layout_marginRight="8dp"
         android:layout_marginBottom="8dp"
-        android:onClick="restart"
         android:background="@drawable/round_btn"
+        android:onClick="restart"
         android:text="@string/restart"
         android:textSize="25sp"
         app:layout_constraintBottom_toTopOf="@+id/Return"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.255" />
 
     <Button
         android:id="@+id/Return"
@@ -37,8 +38,8 @@
         android:layout_marginEnd="8dp"
         android:layout_marginRight="8dp"
         android:layout_marginBottom="8dp"
-        android:onClick="changeMenu"
         android:background="@drawable/round_btn"
+        android:onClick="changeMenu"
         android:text="@string/returnMain"
         android:textSize="25sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -46,7 +47,7 @@
         app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.669" />
+        app:layout_constraintVertical_bias="0.771" />
 
     <TextView
         android:id="@+id/gameOver"
