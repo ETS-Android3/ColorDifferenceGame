@@ -3,5 +3,5 @@ I made this project while messing around with android studio. I did it for fun a
 <br/><br/>
 
 
-![ScreenShot](pictures/Home.png)
+![ScreenShot](https://github.com/Akhil-Kondepudi/ColorDifferenceGame/blob/master/pictures/Home.png?raw=true)
 
