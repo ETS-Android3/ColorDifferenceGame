@@ -5,3 +5,9 @@ I made this project while messing around with android studio. I did it for fun a
 
 ![ScreenShot](https://github.com/Akhil-Kondepudi/ColorDifferenceGame/blob/master/pictures/Home.PNG)
 
+![ScreenShot](https://github.com/Akhil-Kondepudi/ColorDifferenceGame/blob/master/pictures/game1.PNG)
+
+![ScreenShot](https://github.com/Akhil-Kondepudi/ColorDifferenceGame/blob/master/pictures/game2.PNG)
+
+![ScreenShot](https://github.com/Akhil-Kondepudi/ColorDifferenceGame/blob/master/pictures/gameover.PNG)
+
